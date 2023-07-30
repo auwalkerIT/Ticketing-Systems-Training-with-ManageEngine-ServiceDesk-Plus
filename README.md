@@ -59,5 +59,6 @@ The Ticket will show up on the next screen.
 ![Screenshot (12)](https://github.com/auwalkerIT/Ticketing-Systems-Training-with-ManageEngine-ServiceDesk-Plus/assets/139887114/c274d46a-c854-4769-b39e-c5831733e241)
 
 -When the problem is taken care of, click the Actions tab and click "Close Problem"
+
 -As you can see, the problem is now listed as closed.
 ![Screenshot (14)](https://github.com/auwalkerIT/Ticketing-Systems-Training-with-ManageEngine-ServiceDesk-Plus/assets/139887114/412983b7-c309-4ab1-a80f-ed3b6f0214fb)
